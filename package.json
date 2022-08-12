@@ -1,0 +1,17 @@
+{
+  "name": "rooftop-challenge",
+  "version": "1.0.0",
+  "description": "Challenge para rooftop, desencriptar una url",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "keywords": [
+    "desencriptar",
+    "challenge",
+    "json",
+    "rooftop"
+  ],
+  "author": "Nair Palacios",
+  "license": "ISC"
+}
